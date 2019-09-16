@@ -177,3 +177,7 @@ typings/
 
 # Vim
 *.swp
+
+#Project Specific
+/dist
+/build
